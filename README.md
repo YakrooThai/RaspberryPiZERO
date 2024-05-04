@@ -1,6 +1,6 @@
 # RaspberryPiZERO
 
-Introduction to Raspberry PI ZERO Getting Started
+Introduction to Raspberry PI ZERO Getting Started withOut OS
 
 This clip provides a tutorial on how to set up a Raspberry Pi Zero without using an operating system (No OS) 
 and utilizing CircuitPython to turn the Raspberry Pi Zero into a microcontroller,
