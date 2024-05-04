@@ -17,3 +17,10 @@ https://www.youtube.com/watch?v=KlepVp9ABho&t=40s
 
 
 ![rpiz cir1](https://github.com/YakrooThai/RaspberryPiZERO/assets/56666070/1fccde8c-dbba-41b2-9972-a07d3ffaff3d)
+
+
+
+
+Please follow my YouTube channel. Still a newbie to make a YouTube channel.
+Just press Subscribe my youtube channel. Thankyou
+https://www.youtube.com/@Yakroo108  < ===== ( -/|\-) 
