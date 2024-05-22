@@ -19,7 +19,9 @@ https://www.youtube.com/watch?v=KlepVp9ABho&t=40s
 ![rpiz cir1](https://github.com/YakrooThai/RaspberryPiZERO/assets/56666070/1fccde8c-dbba-41b2-9972-a07d3ffaff3d)
 
 
+EP1:
 
+https://www.youtube.com/watch?v=8jqoxfLvHq0
 
 Please follow my YouTube channel. Still a newbie to make a YouTube channel.
 
