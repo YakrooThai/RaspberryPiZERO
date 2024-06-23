@@ -25,6 +25,8 @@ https://www.youtube.com/watch?v=8jqoxfLvHq0
 
 EP2:
 
+![20240615_000230](https://github.com/YakrooThai/RaspberryPiZERO/assets/56666070/0b0d4f92-5957-4920-ba74-e49037703705)
+
 https://www.youtube.com/watch?v=o-YBp-CxHpo
 
 
