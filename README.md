@@ -10,6 +10,9 @@ The video will guide you through the detailed process of connecting
 and installing the system to help you easily kickstart your project!
 
 
+https://www.youtube.com/watch?v=tgs0rdEKC7k
+
+https://www.youtube.com/watch?v=yIo4-BldpzQ
 
 https://www.youtube.com/watch?v=KlepVp9ABho&t=40s
 
