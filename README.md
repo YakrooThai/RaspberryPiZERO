@@ -32,6 +32,9 @@ EP2:
 
 https://www.youtube.com/watch?v=o-YBp-CxHpo
 
+![rpiz pin2](https://github.com/user-attachments/assets/bcd6f678-cd83-4ffc-b786-b6f58dec4600)
+
+
 
 Please follow my YouTube channel. Still a newbie to make a YouTube channel.
 
