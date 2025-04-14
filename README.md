@@ -11,6 +11,8 @@ and installing the system to help you easily kickstart your project!
 
 ![Screenshot 2025-04-13 100421](https://github.com/user-attachments/assets/a4fe6835-32da-4bdf-b296-8d642816b7cc)
 
+https://www.youtube.com/watch?v=NazJjIEi6-8
+
 https://www.youtube.com/watch?v=fh8mP4FndjE
 
 https://www.youtube.com/watch?v=LVOEipYRFVc
